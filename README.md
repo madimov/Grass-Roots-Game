@@ -10,3 +10,5 @@ Below is an example of a randomly generated population on a randomized map:
 ![](https://user-images.githubusercontent.com/18381631/30889147-abc0c2e8-a324-11e7-9b12-f4e0134ab3e1.png)
 
 The visuals can remain simple for the purposes of these simulations, and ultimately are irrelevant, as the goal is to set initial conditions and compare the short-term and long-term trends and deviations between different political and economic systems. Then we will be able to realistically and meaningfully create a game pitting these different systems against each other.
+
+So far, the main points of reference and sources of inspiration are Age of Empires 2 and the Civilization series.
