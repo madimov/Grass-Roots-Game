@@ -3,9 +3,9 @@ A real-time strategy game pitting different political and economic systems again
 
 This project is in early development. Before building the game itself, our goal is to create comprehensive simulations of various political and economic systems, to better understand their short-term and long-term differences, and to inform the game design. 
 
-We have started with a basic simulator for a capitalist democracy. Currently, it can generate a randomized map with structures, resources, and a mobile population with randomized skill sets. After these basics are fully polished, the next step will be to implement algorithms directing the movement of individuals, and organizing their collective behavior to reflect the principles of capitalism and democracy (in this particular simulator).
+We have started with a basic simulator for a capitalist democracy. The initial Java simulator could generate a randomized map with structures, resources, and a mobile population with randomized skill sets. After these basics are fully polished, the next step will be to implement algorithms directing the movement of individuals, and organizing their collective behavior to reflect the principles of capitalism and democracy (in this particular simulator).
 
-Below is an example of a randomly generated population on a randomized map:
+Below is an example of a randomly generated population on a randomized map, from the initial Java simulator:
 
 ![](https://user-images.githubusercontent.com/18381631/30889147-abc0c2e8-a324-11e7-9b12-f4e0134ab3e1.png)
 
